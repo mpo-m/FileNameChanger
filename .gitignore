@@ -1,0 +1,13 @@
+# Eclipse
+.settings
+.classpath
+.project
+
+# Maven
+.mvn
+target
+mvnw
+mvnw.cmd
+
+# Other
+src/main/resources/TestFiles
